@@ -1,12 +1,12 @@
 # Hey there 👋, I’m TEJ
 
-**AI enthusiast turned builder**, currently decoding the bond market one RL episode at a time.  
+**AI enthusiast turned builder**, recently decoded the bond market one RL episode at a time.  
 Graduate in **Artificial Intelligence & Data Science** | Incoming MS @ **RIT, USA**  
 Passionate about making machines think — and markets move.
 
 ---
 
-### 🚀 What I’m Working On
+### 🚀 What I have Worked On
 
 - **Bond Market Portfolio Optimization**  
   Deep RL agent trained using DQN in a custom Gym environment with real NSE bond data.

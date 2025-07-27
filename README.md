@@ -34,5 +34,9 @@ Let’s collaborate, connect, or just nerd out over some AI, finance, or futuris
 Always learning. Always building. Always evolving.
 
 📫 How to reach me?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tej-more/)
+### 📬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tej-more/)
+- [Email](mailto:tejmore88@gmail.com)
+
 

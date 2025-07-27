@@ -32,3 +32,7 @@ Skills: Deep Learning, Reinforcement Learning, Time-Series Forecasting, Financia
 
 Let’s collaborate, connect, or just nerd out over some AI, finance, or futuristic tech.
 Always learning. Always building. Always evolving.
+
+📫 How to reach me?
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tej-more/)

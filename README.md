@@ -33,11 +33,10 @@ Skills: Deep Learning, Reinforcement Learning, Time-Series Forecasting, Financia
 Let’s collaborate, connect, or just nerd out over some AI, finance, or futuristic tech.
 Always learning. Always building. Always evolving.
 
-📫 How to reach me?
 ### 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tej-more/)
-- [Email](mailto:tejmore88@gmail.com)
+- [Email](mailto:tejmofficial@gmail.com)
 
 
 

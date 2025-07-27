@@ -34,10 +34,10 @@ Let’s collaborate, connect, or just nerd out over some AI, finance, or futuris
 Always learning. Always building. Always evolving.
 
 📫 How to reach me?
-```markdown
 ### 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tej-more/)
-- [Email](mailto:tejmofficial@gmail.com)
+- [Email](mailto:tejmore88@gmail.com)
+
 
 
